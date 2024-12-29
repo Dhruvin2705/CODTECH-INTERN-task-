@@ -1,7 +1,10 @@
 
 Name: Sangani Dhruvin
+
 Study: B.tech in cyber security [UG]
+
 College and: silver oak university
+
 Intern company: CODTECHITSOLUTIONS
 
 **Task:** CODTECH-Internship-password strength cheker
